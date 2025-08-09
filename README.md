@@ -23,11 +23,12 @@ It works with the provided `data.csv` file but can be adapted to other datasets.
 
 ## 📂 Project Structure
 ```
-├── data.csv                # Raw input dataset (uploaded by user)
-├── etl_pipeline.ipynb      # Jupyter Notebook with ETL process
-├── processed_train.csv     # Cleaned and transformed training data
-├── processed_test.csv      # Cleaned and transformed testing data
-└── README.md               # Project documentation
+├── Generate dataset.ipynb               # Generate Own Dataset 
+├── data.csv                             # Raw input dataset (uploaded by user)
+├── Data Development Pipeline.ipynb      # Jupyter Notebook with ETL process
+├── processed_train.csv                  # Cleaned and transformed training data
+├── processed_test.csv                   # Cleaned and transformed testing data
+└── README.md                            # Project documentation
 ```
 
 ---
