@@ -44,7 +44,7 @@ pip install pandas numpy scikit-learn seaborn
 ## 🖥 How to Run
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/etl-pipeline.git
+git clone https://github.com/sysjaykumar/DATA-PIPELINE-DEVELOPMENT.git
 cd etl-pipeline
 ```
 
@@ -75,5 +75,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 ---
 
 ## 🙌 Author
-**Your Name**  
+**JAY KUMAR**  
 Data Science & Machine Learning Enthusiast
